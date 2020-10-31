@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'SDF';
+    src: url("") format('woff'),url("") format('truetype');
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'SDF';
+    src: url("") format('woff'),url("") format('truetype');
+    font-weight: bold;
+}
+@font-face {
+    font-family: 'SansIrani';
+    src: url("") format('woff'),url("") format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'FarsNews';
+    src: url("") format('woff');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'YekPezeshk';
+    src: url("") format('woff');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Digiato';
+    src: url("") format('woff');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Digiato2';
+    src: url("") format('woff');
+    font-weight: normal;
+}
+
+
